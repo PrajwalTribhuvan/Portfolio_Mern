@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3938a1c8.css",
+    "main.js": "/static/js/main.6b5b176c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Portfolio.jpeg": "/static/media/Portfolio.ab70b0ff52f7693de0e2.jpeg",
+    "static/media/Medicare.png": "/static/media/Medicare.3c109bacaad0bc2fd0ce.png",
+    "static/media/Prajwal Resume.pdf": "/static/media/Prajwal Resume.c1978f6aa95a71c4190e.pdf",
+    "static/media/profile.png": "/static/media/profile.72d74f32e18ca26e85b5.png",
+    "static/media/Contact.png": "/static/media/Contact.550d0f884d3f84f7938c.png",
+    "static/media/Placement.jpeg": "/static/media/Placement.0ffccd6ef9b64ada976e.jpeg",
+    "static/media/Timetable.jpeg": "/static/media/Timetable.691ae20b290134d7efd0.jpeg",
+    "index.html": "/index.html",
+    "main.3938a1c8.css.map": "/static/css/main.3938a1c8.css.map",
+    "main.6b5b176c.js.map": "/static/js/main.6b5b176c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3938a1c8.css",
+    "static/js/main.6b5b176c.js"
+  ]
+}
